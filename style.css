@@ -1,0 +1,81 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: #FFCF00;
+  color: #5D536B;
+  line-height: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 22px;
+}
+
+a {
+  color: #297373;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+a:hover {
+  color: #00291F;
+}
+
+img {
+  height: 200px;
+  width: auto;
+  border-radius: 50%;
+  box-shadow: 2px 2px 8px #888888;
+}
+
+.middle > a {
+  background-color: #B89600;
+  border-radius: 4px;
+  box-shadow: 1px 1px 8px #888888;
+  border: none;
+  color: #F4F4F6;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.middle > a:hover {
+  background-color: #b99d21;
+}
+
+.container {
+  margin: 0 130px;
+  text-align: center;
+}
+
+.card {
+  background-color: #F4F4F6;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin: 10px auto;
+  border-radius: 4px;
+  box-shadow: 2px 2px 8px #888888;
+}
+
+.translation-link > a {
+  font-size: 15px;
+  display: inline-block;
+  padding: 0px 5px;
+  list-style-type: none;
+}
+
+.list-inline {
+  color: #297373;
+  font-size: 22px;
+  display: inline-block;
+  padding: 0px 20px;
+  list-style-type: none;
+}
+
+.media-link {
+  font-size: 50px;
+}
